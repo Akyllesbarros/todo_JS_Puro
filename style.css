@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    border: black solid 1px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card{
+    margin: 5rem;
+    border: black;
+}
